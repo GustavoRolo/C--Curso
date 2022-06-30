@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\obj\Debug\Exercicios2.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\obj\Debug\Exercicios2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\obj\Debug\Exercicios2.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\bin\Debug\Exercicios2.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\bin\Debug\Exercicios2.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\bin\Debug\Exercicios2.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\obj\Debug\Exercicios2.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Exercicios2\Exercicios2\obj\Debug\Exercicios2.pdb

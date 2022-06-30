@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\bin\Debug\List.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\bin\Debug\List.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\bin\Debug\List.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\obj\Debug\List.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP6\List\List\obj\Debug\List.pdb

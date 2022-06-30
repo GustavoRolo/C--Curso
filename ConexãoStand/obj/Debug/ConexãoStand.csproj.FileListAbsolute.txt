@@ -1,0 +1,13 @@
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\bin\Debug\ConexãoStand.exe.config
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\bin\Debug\ConexãoStand.exe
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\bin\Debug\ConexãoStand.pdb
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.csproj.GenerateResource.cache
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.exe
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.pdb
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.csproj.ResolveComReference.cache
+C:\Users\gustavo.henrique\Desktop\ConexãoStand\ConexãoStand\obj\Debug\ConexãoStand.Form1.resources

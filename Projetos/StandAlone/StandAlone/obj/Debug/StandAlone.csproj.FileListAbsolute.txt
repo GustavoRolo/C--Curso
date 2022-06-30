@@ -1,0 +1,13 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.csproj.ResolveComReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\bin\Debug\StandAlone.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\bin\Debug\StandAlone.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\bin\Debug\StandAlone.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.Form1.resources
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\StandAlone\StandAlone\obj\Debug\StandAlone.csproj.GenerateResource.cache

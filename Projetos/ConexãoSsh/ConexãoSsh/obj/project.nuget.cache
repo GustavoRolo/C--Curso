@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSMbDQ9lUZlaAUwszY8ju3w+n6dNppURZqKrultAilD8rc50kEknEehrOxPRDMhhWvhccJj4oP9U+H4zGDTlZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustavo.henrique\\Desktop\\Pessoal\\C#\\Projetos\\ConexãoSsh\\ConexãoSsh\\ConexãoSsh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo.henrique\\.nuget\\packages\\ssh.net\\2020.0.1\\ssh.net.2020.0.1.nupkg.sha512",
+    "C:\\Users\\gustavo.henrique\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\gustavo.henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

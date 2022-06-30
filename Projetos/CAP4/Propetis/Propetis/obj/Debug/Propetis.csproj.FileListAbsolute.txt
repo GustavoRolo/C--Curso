@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\bin\Debug\Propetis.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\bin\Debug\Propetis.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\bin\Debug\Propetis.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\obj\Debug\Propetis.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\obj\Debug\Propetis.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\obj\Debug\Propetis.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\obj\Debug\Propetis.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP4\Propetis\Propetis\obj\Debug\Propetis.pdb

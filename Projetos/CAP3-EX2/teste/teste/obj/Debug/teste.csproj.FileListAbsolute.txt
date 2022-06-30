@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\obj\Debug\teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\bin\Debug\teste.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\bin\Debug\teste.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\bin\Debug\teste.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\obj\Debug\teste.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX2\teste\teste\obj\Debug\teste.pdb

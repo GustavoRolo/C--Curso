@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85b7e725-cb37-4e6a-ab82-c5495ab8e5ef": {
+      "ProjectGuid": "85b7e725-cb37-4e6a-ab82-c5495ab8e5ef",
+      "DisplayName": "SSHGustavoTestes",
+      "ColorIndex": 0
+    },
+    "21d8ce31-7be3-452e-8e38-a5557421ea6f": {
+      "ProjectGuid": "21d8ce31-7be3-452e-8e38-a5557421ea6f",
+      "DisplayName": "OperationProj",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

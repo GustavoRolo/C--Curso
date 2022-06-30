@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

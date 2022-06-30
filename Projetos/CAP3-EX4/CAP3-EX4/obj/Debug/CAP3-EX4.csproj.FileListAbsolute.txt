@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\bin\Debug\CAP3-EX4.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\bin\Debug\CAP3-EX4.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\bin\Debug\CAP3-EX4.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\obj\Debug\CAP3-EX4.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\obj\Debug\CAP3-EX4.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\obj\Debug\CAP3-EX4.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\obj\Debug\CAP3-EX4.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP3-EX4\CAP3-EX4\obj\Debug\CAP3-EX4.pdb

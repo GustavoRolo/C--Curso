@@ -1,0 +1,11 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\bin\Debug\SSH.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\bin\Debug\SSH.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\bin\Debug\SSH.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\bin\Debug\Renci.SshNet.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\bin\Debug\Renci.SshNet.xml
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.csproj.CopyComplete
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\CAP5\SSH\SSH\obj\Debug\SSH.pdb

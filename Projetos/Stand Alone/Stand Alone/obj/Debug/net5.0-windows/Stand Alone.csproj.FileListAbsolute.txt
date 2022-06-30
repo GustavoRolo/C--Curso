@@ -1,0 +1,21 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.csproj.ResolveComReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand_Alone.Form1.resources
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.csproj.GenerateResource.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.AssemblyInfoInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.AssemblyInfo.cs
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.deps.json
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.runtimeconfig.json
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.runtimeconfig.dev.json
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\ref\Stand Alone.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Stand Alone.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\bin\Debug\net5.0-windows\Interop.zkemkeeper.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\ref\Stand Alone.dll
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Stand Alone\Stand Alone\obj\Debug\net5.0-windows\Stand Alone.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\bin\Debug\Conversão em Casting.exe.config
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\bin\Debug\Conversão em Casting.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\bin\Debug\Conversão em Casting.pdb
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\obj\Debug\Conversão em Casting.csproj.AssemblyReference.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\obj\Debug\Conversão em Casting.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\obj\Debug\Conversão em Casting.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\obj\Debug\Conversão em Casting.exe
+C:\Users\gustavo.henrique\Desktop\Pessoal\C#\Projetos\Conversão em Casting\Conversão em Casting\obj\Debug\Conversão em Casting.pdb

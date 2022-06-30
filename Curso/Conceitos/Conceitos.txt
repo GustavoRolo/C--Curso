@@ -1,0 +1,8 @@
+C# = Uma linguagem de programação (regras sintáticas
+.NET = Plataforma de desenvolvimento para criar diversos tipos de aplicação
+CLR (COMMON LANGUAGE RUNTIME) = MAQUINA VIRTUAL
+
+
+
+Atalho para identar   Ctrl + K + D
+Atalho da dar saida      cw  tab tab

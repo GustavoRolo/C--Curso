@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AOi0eqw8ap7lnete0AqmTGR2DztfHCU6cAXH00CmiytUK96Y5x3ngAJxVWpTJMKMzbKPN2+lhdAQrtyXb64q/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustavo.henrique\\Desktop\\Pessoal\\C#\\Projetos\\Stand Alone\\Stand Alone\\Stand Alone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo.henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V22OdD2hM7fqv4OiQICdCQZ7iaTSj5w6omNzWjwqr/nAlI4g54ejdnn1f2CQW0uBOdFQCx7S9Jykr09ZtIw2pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gustavo.henrique\\Desktop\\Pessoal\\C#\\Projetos\\MinhaAppVs\\MinhaAppVs\\MinhaAppVs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gustavo.henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

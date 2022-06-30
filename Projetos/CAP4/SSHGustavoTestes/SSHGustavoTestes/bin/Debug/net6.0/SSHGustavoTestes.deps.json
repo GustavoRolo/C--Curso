@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSHGustavoTestes/1.0.0": {
+        "dependencies": {
+          "OperationProj": "1.0.0"
+        },
+        "runtime": {
+          "SSHGustavoTestes.dll": {}
+        }
+      },
+      "OperationProj/1.0.0": {
+        "runtime": {
+          "OperationProj.dll": {}
+        }
+      },
+      "Renci.SshNet/2020.0.1.0": {
+        "runtime": {
+          "Renci.SshNet.dll": {
+            "assemblyVersion": "2020.0.1.0",
+            "fileVersion": "2020.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSHGustavoTestes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OperationProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Renci.SshNet/2020.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
